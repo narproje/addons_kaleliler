@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <data >
+        
+        <record model="res.groups" id="group_kaleliler_noone">
+            <field name="name">Kaleliler Engelleme Yetkisi</field>
+        </record>
+
+        <record model="res.groups" id="group_kaleliler_picking">
+            <field name="name">Kaleliler Malzeme Toplama Yetkisi</field>
+        </record>
+        
+    
+    </data>
+    
+
+</odoo>
